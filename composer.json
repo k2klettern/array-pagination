@@ -2,6 +2,7 @@
   "name": "k2klettern/array-pagination",
   "description": "Set a Pagination from an array of results",
   "type": "project",
+  "version": "v1.0",
   "license": "GNU",
   "authors": [
     {
