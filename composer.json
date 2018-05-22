@@ -1,0 +1,21 @@
+{
+  "name": "k2klettern/arrayPagination",
+  "description": "Set a Pagination from an array of results",
+  "type": "project",
+  "license": "GNU",
+  "authors": [
+    {
+      "name": "Eric Zeidan",
+      "email": "k2klettern@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload":{
+    "psr-0": {
+      "arrayPagination": "src/"
+    }
+  }
+}
