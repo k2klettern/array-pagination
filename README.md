@@ -9,6 +9,10 @@ Clone in your vendor/
 
 Install via composer update
 
+or
+
+composer create-project k2klettern/array-pagination
+
 To get the Pagination just instantiate the class
 
 $arrayToPaginate;
