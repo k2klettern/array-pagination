@@ -1,4 +1,4 @@
-# arrayPagination
+# array-pagination
 Class to Paginate results from an array
 by Eric Zeidan
 k2klettern@gmail.com
