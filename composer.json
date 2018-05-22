@@ -3,7 +3,7 @@
   "description": "Set a Pagination from an array of results",
   "type": "project",
   "version": "v1.0",
-  "license": "GNU",
+  "license": "GPL-3.0-or-later",
   "authors": [
     {
       "name": "Eric Zeidan",
